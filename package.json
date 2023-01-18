@@ -1,0 +1,20 @@
+{
+  "name": "auto-export",
+  "version": "1.0.0",
+  "description": "Auto export in current dir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmsn/auto-export.git"
+  },
+  "keywords": [],
+  "author": "nmsn <1336696700@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmsn/auto-export/issues"
+  },
+  "homepage": "https://github.com/nmsn/auto-export#readme"
+}
